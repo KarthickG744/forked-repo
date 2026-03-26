@@ -1,9 +1,7 @@
 $ git checkout main
 Switched to branch 'main'
-Your branch is ahead of 'origin/main' by 5 commits.
-  (use "git push" to publish your local commits)
 
-$ git merge bug-fix-typo2
+$ git merge bug-fix-typo
 Updating a191db6..a660147
 Fast-forward
  README.md | 1 +
